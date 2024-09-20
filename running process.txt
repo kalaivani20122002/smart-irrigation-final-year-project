@@ -1,0 +1,7 @@
+step1:open cmd
+
+step2:plant\Scripts\activate
+
+step3:cd project folder path
+
+step4: python app.py
